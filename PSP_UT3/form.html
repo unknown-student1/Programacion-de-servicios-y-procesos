@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Example Form</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-200 flex items-center justify-center h-screen">
+<div class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 flex flex-col">
+    <h1 class="font-bold text-xl mb-2">Formulario</h1>
+    <form method="post" action="formdatos.html">
+        <div class="mb-4">
+            <label class="block text-gray-700 text-sm font-bold mb-2">Campo1:</label>
+            <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="text" name="campo1">
+        </div>
+        <div class="mb-6">
+            <label class="block text-gray-700 text-sm font-bold mb-2">Campo2:</label>
+            <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="text" name="campo2">
+        </div>
+        <div class="flex items-center justify-between">
+            <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit">Enviar</button>
+        </div>
+    </form>
+</div>
+</body>
+</html>

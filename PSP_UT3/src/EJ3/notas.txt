@@ -1,0 +1,36 @@
+Qualcomm anuncia una bomba: llevará sus Snapdragon X Elite a PC de escritorio
+
+Aunque los procesadores x86 han estado dominando el sector de los PC y portátiles durante décadas, poco a poco vemos
+como Arm empieza a meter presión. Fue Apple la que llevó los primeros SoC Arm que podían competir contra Intel y AMD a
+la vez que consumían menos energía. Cuando Qualcomm anunció su Snapdragon X Elite, pudimos ver que se había llegado a un
+nivel superior de rendimiento, superando a las compañías rivales. Ahora es el turno de Qualcomm en la Computex 2024 para
+anunciar todas las novedades de sus nuevos Snapdragon y como pretenden llevar estos chips también a PC.
+
+El mundo gira en torno a la IA desde que empezamos a ver lo útil que podía ser en prácticamente todos los sectores. Es
+por ello que se está implementando la inteligencia artificial en todos los tipo de dispositivos, al igual que chips y
+NPU como aceleradores de tareas de inteligencia artificial. Es solo cuestión de tiempo de que nuestros ordenadores y
+móviles tengan funciones automatizadas que se ejecutan de inmediato, pues con lo rápido que avanza la inteligencia
+artificial se está progresando en cuanto a su capacidad y rapidez a la hora de cumplir órdenes.
+
+Se avecina una era donde los chips capaces de obtener un buen rendimiento en tareas por IA van a liderar por encima de
+todos los demás y es por esto que tanto Intel como AMD, Apple, Qualcomm y otras compañías, están lanzando chips capaces
+de esto. Hace apenas unas semanas, Microsoft anunció la nueva gama de PC Copilot+, los cuales eran portátiles equipados
+con SoC Snapdragon X Elite que podían hacer tareas por IA usando Arm y consiguiendo una batería de un día de duración
+como mínimo.
+
+Con estos requisitos, los PC Copilot+ llegaban en forma de portátiles, pero esto era solo el inicio, ya que según
+Qualcomm ha dicho en la Computex 2024, ha empezado a colaborar con marcas como ASUS, Acer, Microsoft o Lenovo para poder
+traer ordenadores con Snapdragon en todos los formatos, incluidos PC de sobremesa. Para Christiano Amon, CEO de Qualcomm
+, los Snapdragon X Elite suponen el mayor cambio para Windows desde Windows 95. En la actualidad hay 22 portátiles que
+pertenecen a la gama Copilot+ y ofrecen 45 TOPS de rendimiento en IA. Con esta NPU y su bajo consumo, consiguen 5 veces
+más rendimiento alcanzando temperaturas menores que la competencia, en este caso el Intel Core Ultra 7 155H.
+
+No solo destacan en rendimiento para tareas que impliquen la inteligencia artificial, sino que son muy eficientes. Los
+Snapdragon X Elite ofrecen 2,6 veces más rendimiento/W que el Apple M3 y 5,4 veces más que el Intel Core Ultra 155H. En
+la prueba de Geekbench usando solo un core, el X Elite es un 51% más rápido y consume un 65% menos energía que el Core
+Ultra. También vemos como es más rápido en los navegadores populares como Google Chrome y Edge.
+
+Uno de los puntos más importantes es precisamente esta eficiencia que se traduce en una mayor autonomía. En concreto,
+consiguen tener un 60% más de batería en reproducción de video, un 70% más en llamadas de vídeo y el doble en streaming
+comparado al Intel Core Ultra 7. Por último, tenemos las pruebas de la NPU donde se ha utilizado el Snapdragon X Elite
+en DaVinci Resolve usando la máscara mágica, siendo 4,7 veces más rápido que la CPU de Intel.
